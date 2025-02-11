@@ -1,10 +1,10 @@
-Kwizera Janvier
-Educator, Data Analyst, and Aspiring Content Creator
+### Kwizera Janvier
+### Educator, Data Analyst, and Aspiring Content Creator
 
 Hi there 👋
 I am Kwizera Janvier, a passionate learner and educator with a strong foundation in Applied Mathematics, Data Analysis, and ICT. With experience in data-driven problem-solving and a keen interest in educational content creation, I aim to make complex concepts more accessible. Currently, I’m working on data analysis projects and developing mathematics tutorials for platforms like TikTok and YouTube.
 
-To see more of my work, feel free to connect with me! 🚀
+### To see more of my work, feel free to connect with me! 🚀
 
 ---
 
