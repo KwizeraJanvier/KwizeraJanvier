@@ -1,10 +1,10 @@
-# Kwizera janvier
-Senior Frontend Engineer based out of Berlin working at [Dizrbo GmbH](https://dizrbogmbh.com).
+Kwizera Janvier
+Educator, Data Analyst, and Aspiring Content Creator
 
----
+Hi there 👋
+I am Kwizera Janvier, a passionate learner and educator with a strong foundation in Applied Mathematics, Data Analysis, and ICT. With experience in data-driven problem-solving and a keen interest in educational content creation, I aim to make complex concepts more accessible. Currently, I’m working on data analysis projects and developing mathematics tutorials for platforms like TikTok and YouTube.
 
-### Hi there 👋
-I am Muhammad Adeel, a *Senior Frontend Engineer* based out of Berlin working at *Dizrbo GmbH. Having around **10 years of experience in full-stack web development*, but since 2021, I’m professionally working as a Frontend Engineer. To see my profile in detail, I recommend looking at my [LinkedIn](https://linkedin.com), [Medium](https://medium.com), or [Stack Overflow](https://stackoverflow.com) profiles.
+To see more of my work, feel free to connect with me! 🚀
 
 ---
 
@@ -49,7 +49,7 @@ I am Muhammad Adeel, a *Senior Frontend Engineer* based out of Berlin working at
 ---
 
 ### Stats
-#### Muhammad Adeel’s GitHub Stats:
+#### Kwizera Janvier’s GitHub Stats:
 - *Total Stars Earned*: 5  
 - *Total Commits*: 334  
 - *Total PRs*: 0  
