@@ -1,8 +1,13 @@
 ### Kwizera Janvier
-### Data Scientist|Machine Learning|Master's Degree in Data Science| Gruate at AIMS RWANDA| AIMS_ Alumni
+### Data Scientist | Data Analyst | Machine Learning (ML) | AI Engineer | AIMS Alumni
 
 Hi there 👋
-I am Kwizera Janvier, a data scientist and data analyst with a strong background in mathematics, applied mathematics, statistics, and data science. I specialize in data analysis, machine learning, and big data analytics. I am proficient in tools such as Python, PySpark, Excel, Power BI, Tableau, and GitHub. I have experience cleaning and analyzing large datasets, building dashboads, building predictive models, and creating insightful data visualizations. I am skilled in applying statistical and machine learning techniques to solve real-world problems and support data-driven decision-making.
+
+I'm Kwizera Janvier, a data scientist and data analyst with a strong background in mathematics, applied mathematics, statistics, and data science. I specialize in data analysis, machine learning (ML), artificial intelligence (AI), and big data analytics.
+
+I'm proficient in tools such as **Python,Java Script, PySpark, Excel, Power BI, Tableau, and GitHub**. My experience includes cleaning and analyzing large datasets, building dashboards, developing predictive models, and creating insightful data visualizations.
+
+I'm skilled in applying statistical and machine learning techniques to solve real-world problems and support data-driven decision-making.
 
 ### To see more of my work, feel free to connect with me! 🚀
 
