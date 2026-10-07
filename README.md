@@ -1,19 +1,20 @@
 ### Kwizera Janvier
-### Data Scientist | Data Analyst | Machine Learning (ML) | AI Engineer | AIMS Alumni
+### Data Scientist | Data Analyst | Machine Learning (ML), AI Engineer & Data Engineer | Full-Stack Developer.
 
 Hi there 👋
 
-I'm Kwizera Janvier, a data scientist and data analyst with a strong background in mathematics, applied mathematics, statistics, and data science. I specialize in data analysis, machine learning (ML), artificial intelligence (AI), and big data analytics.
+I'm Kwizera Janvier, a data scientist and data analyst with a strong background in mathematics, applied mathematics, statistics, and data science. I specialize in data analysis, machine learning (ML), artificial intelligence (AI), data engineering, big data analytics, and full-stack development.
 
-I'm proficient in tools such as **Python,Java Script, PySpark, Excel, Power BI, Tableau, and GitHub**. My experience includes cleaning and analyzing large datasets, building dashboards, developing predictive models, and creating insightful data visualizations.
+I'm proficient in tools such as **Python, SQL, JavaScript, TypeScript, React, Node.js, FastAPI, PySpark, Apache Spark, Apache Airflow, Apache Kafka, dbt,DataBricks,PostgreSQL, MySQL, MongoDB, Excel, Power BI, Tableau, AWS, Docker, and GitHub**. My experience includes cleaning and analyzing large datasets, building scalable data pipelines, developing dashboards, building predictive models, creating AI-powered applications, developing APIs, and building data-driven web applications.
 
-I'm skilled in applying statistical and machine learning techniques to solve real-world problems and support data-driven decision-making.
+I'm skilled in ***applying statistical, machine learning, data engineering, and software engineering*** techniques to solve real-world problems, build scalable data solutions, and support data-driven decision-making.
 
 ### To see more of my work, feel free to connect with me! 🚀
 
 ---
 
 ### Skills
+![Apache Kafka](https://img.shields.io/badge/-ApacheKafka-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
 ![BashScript](https://img.shields.io/badge/-BashScript-blue?style=flat-square&logo=Bashscript&logoColor=white)
@@ -41,7 +42,9 @@ I'm skilled in applying statistical and machine learning techniques to solve rea
 ![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-square&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=bitbucket&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=jquery&logoColor=white)
-
+![DataBricks](https://img.shields.io/badge/-DataBricks-yellow?style=flat-square&logo=javascript&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-yellow?style=flat-square&logo=javascript&logoColor=white)
+![Apache AirFlow](https://img.shields.io/badge/-ApacheAiFlow-yellow?style=flat-square&logo=javascript&logoColor=white)
 ---
 
 ### Top Blog Posts
